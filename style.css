@@ -16,13 +16,12 @@ h1 {
   float: left;
   width: 300px;
   padding-top: 5px;
-  padding-right: 200px;
-
 }
-#sidebar{
+#sidebar {
   float: right;
   width: 300px;
-  padding-bottom: 200px;
+  padding-top: 5px;
+
 }
 #container{
   width: 700px;
@@ -46,7 +45,7 @@ h1 {
   width: 117px;
 }
 #nav a:hover, a:active {
-  background-color: #142A3C
+  background-color: #142A3C;
 
 }
 #photo{
