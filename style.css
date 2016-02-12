@@ -1,0 +1,54 @@
+/*Styles go here*/
+
+body {
+  background-color: #EFFEE9;
+  font-family: Baskerville, Garamond, "Times New Roman", serif;
+}
+p {
+
+  color: #204360;
+}
+h1 {
+  color: #204360;
+  font-family: Georgia, "Times New Roman", serif;
+}
+#main {
+  float: left;
+  width: 300px;
+  padding-top: 5px;
+  padding-right: 200px;
+
+}
+#sidebar{
+  float: right;
+  width: 300px;
+  padding-bottom: 200px;
+}
+#container{
+  width: 700px;
+  margin: 0 auto;
+}
+#nav{
+  list-style-type: none;
+  margin: 0;
+	padding: 0;
+}
+#nav li {
+  float: left;
+}
+#nav a:link, #nav a:visited {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+  background-color: #204360;
+  color: #EFFEE9;
+  width: 117px;
+}
+#nav a:hover, a:active {
+  background-color: #142A3C
+
+}
+#photo{
+  border-style: none;
+}
